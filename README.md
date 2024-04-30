@@ -8,7 +8,6 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Acknowledgements](#acknowledgements)
 
 
 ## General Information
@@ -16,7 +15,6 @@
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
 - Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
@@ -33,7 +31,8 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/screenshot.png)![Screenshot 2024-04-30 at 21 49 53](https://github.com/lmeng2857/expense-tracker/assets/92019443/46430e0d-cf35-46b9-a5b9-dbdbd034fe8e)
+
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
@@ -44,12 +43,5 @@ $ cd ../expense-tracker
 $ npm install
 $ npm start
 ```
-
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
 
   
