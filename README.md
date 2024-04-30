@@ -1,13 +1,16 @@
 # Expense Tracker 
+> A simple React Web project built with HTML, CSS, JavaScript.
 > Live demo [_here_](https://expense-tracker-meng.netlify.app).
+- A self-contained React web project constructed with HTML, CSS, and JavaScript.
+- An ideal exercise for mastering React Hooks and the Context API.
+- A training project based on a [tutorial](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=1) by 'Traversy Media' on YouTube, utilizing React version 16 for implementation.
 
-
-## General Information
-- This app uses local storage to persist tracking income and expense.
-- What is the purpose of your project?
-- This is a training project based on the YouTube [tutorial](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=1) from Traversy Media in which it's build with react version 16.
-
-
+## Technologies Used
+- JavaScript - version 1.0
+- CSS - version 2.0
+- HTML - version 3.0
+- React - version 18.2.0
+  
 ## Features
 - Real-time Balance: See your current balance, expenses, and income dynamically
 - Transaction Log: Easily track added transactions, with new entries displayed on top
@@ -18,11 +21,7 @@
 ## User Interface
 
 
-## Technologies Used
-- JavaScript - version 1.0
-- CSS - version 2.0
-- HTML - version 3.0
-- React - version 18.2.0
+
 
 
 ## Features
