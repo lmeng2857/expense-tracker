@@ -31,7 +31,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)![Screenshot 2024-04-30 at 21 49 53](https://github.com/lmeng2857/expense-tracker/assets/92019443/46430e0d-cf35-46b9-a5b9-dbdbd034fe8e)
+![Example screenshot](./img/screenshot.png)![Screenshot 2024-04-30 at 21 49 53]
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
