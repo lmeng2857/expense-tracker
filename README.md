@@ -7,10 +7,16 @@
 - Provide general information about your project here.
 - This app aims to track income and expense  and uses local storage to persist . Users can add or delete transactions, and  .
 - What is the purpose of your project?
-- This is a training project based on the YouTube [tutorial](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb) from Traversy Media in which it's build with react version 16.
+- This is a training project based on the YouTube [tutorial](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=1) from Traversy Media in which it's build with react version 16.
 
 
 ## User Interface
+
+
+
+## Features
+- 1
+- 2
 
 
 
