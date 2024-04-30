@@ -1,6 +1,6 @@
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# Expense Tracker
+> Simple expense tracker React-App created with HTML, CSS, JaveScript and local storage. 
+> Live demo [_here_](https://expense-tracker-meng.netlify.app). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -35,6 +35,9 @@ List the ready features here:
 - Awesome feature 1
 - Awesome feature 2
 - Awesome feature 3
+
+
+## Launch
 
 
 ## Screenshots
