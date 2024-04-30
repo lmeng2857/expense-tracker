@@ -1,19 +1,25 @@
 # Expense Tracker
 > Simple expense tracker React-App created with HTML, CSS, JaveScript and local storage. 
-> Live demo [_here_](https://expense-tracker-meng.netlify.app). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://expense-tracker-meng.netlify.app).
 
 
 ## General Information
 - Provide general information about your project here.
-- What problem does it (intend to) solve?
+- This app aims to track income and expense  and uses local storage to persist . Users can add or delete transactions, and  .
 - What is the purpose of your project?
-- Why did you undertake it?
+- This is a training project based on the YouTube [tutorial](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb) from Traversy Media in which it's build with react version 16.
+
+
+## User Interface
+
+
 
 
 ## Technologies Used
 - JavaScript - version 1.0
 - CSS - version 2.0
 - HTML - version 3.0
+- React - version 18.2.0
 
 
 ## Features
@@ -24,7 +30,7 @@ List the ready features here:
 
 
 ## Setup
-To run this project, install it locally using npm:
+To run this project on http://localhost:3000
 ```
 $ cd ../expense-tracker
 $ npm install
