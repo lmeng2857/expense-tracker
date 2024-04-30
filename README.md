@@ -2,13 +2,6 @@
 > Simple expense tracker React-App created with HTML, CSS, JaveScript and local storage. 
 > Live demo [_here_](https://expense-tracker-meng.netlify.app). <!-- If you have the project hosted somewhere, include the link here. -->
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-
 
 ## General Information
 - Provide general information about your project here.
@@ -28,12 +21,6 @@ List the ready features here:
 - addable
 - deletable
 - reloadable from local storage
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)![Screenshot 2024-04-30 at 21 49 53]
-
-<!-- If you have screenshots you'd like to share, include them here. -->
 
 
 ## Setup
