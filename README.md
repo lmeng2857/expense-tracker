@@ -5,30 +5,16 @@
 - An ideal exercise for mastering React Hooks and the Context API.
 - A training project based on a [tutorial](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=PLillGF-RfqbY3c2r0htQyVbDJJoBFE6Rb&index=1) by 'Traversy Media' on YouTube, utilizing React version 16 for implementation.
 
-## Technologies Used
-- JavaScript - version 1.0
-- CSS - version 2.0
-- HTML - version 3.0
-- React - version 18.2.0
-  
+
+## User Interface
+![Screenshot 2024-04-30 at 22 22 27](https://github.com/lmeng2857/expense-tracker/assets/92019443/1cad8c75-4678-49e0-8910-22e52d3f8e32)
+
+
 ## Features
 - Real-time Balance: See your current balance, expenses, and income dynamically
 - Transaction Log: Easily track added transactions, with new entries displayed on top
 - Delete and Add: Remove items and input new transactions effortlessly
 - Persistent Storage: save data locally and reload automatically
-
-
-## User Interface
-
-
-
-
-
-## Features
-List the ready features here:
-- addable
-- deletable
-- reloadable from local storage
 
 
 ## Setup
